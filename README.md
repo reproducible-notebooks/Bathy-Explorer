@@ -1,5 +1,5 @@
-# HRRR_Dashboard
-Explore the High-Resolution Rapid Refresh weather forecast using [Holoviz](holoviz.org) (hvplot and panel)
+# Bathy Explorer
+Explore the ETOPO1 global topography using [Holoviz](holoviz.org) (hvplot and panel)
 
 ### Launch in JupyterLab: 
 
