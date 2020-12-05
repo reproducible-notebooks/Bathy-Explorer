@@ -7,4 +7,4 @@ Explore the ETOPO1 global topography using [Holoviz](holoviz.org) (hvplot and pa
 
 ### Launch Web App: 
 
-[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Binder&message=Panel+app&color=green)](https://mybinder.org/v2/gh/reproducible-notebooks/Bathy_Explorer.git/HEAD?urlpath=panel/Bathy_Explorer)
+[![badge](https://img.shields.io/static/v1.svg?logo=Jupyter&label=Pangeo+Binder&message=AWS+us-west-2&color=green)](https://aws-uswest2-binder.pangeo.io/v2/gh/reproducible-notebooks/Bathy_Explorer.git/HEAD?urlpath=panel/Bathy_Explorer)
